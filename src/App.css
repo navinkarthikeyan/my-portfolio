@@ -9,6 +9,7 @@ body {
   color: white;
   padding-top: 0.8rem;
   justify-content: space-between;
+  height: 10vh
 }
 .c1 {
   display: flex;
